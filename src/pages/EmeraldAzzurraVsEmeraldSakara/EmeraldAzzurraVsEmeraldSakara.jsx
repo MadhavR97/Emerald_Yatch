@@ -5,10 +5,10 @@
 import React, { useEffect, useState } from "react";
 import "./EmeraldAzzurraVsEmeraldSakara.css";
 import Navbar from "../../components/Navbar/Navbar";
-import EmeraldAzzurraVsEmeraldSakara1 from "../../assets/EmeraldAzzurraVsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara1.jpg";
-import EmeraldAzzurraVsEmeraldSakara2 from "../../assets/EmeraldAzzurraVsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara2.jpg";
-import EmeraldAzzurraVsEmeraldSakara3 from "../../assets/EmeraldAzzurraVsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara3.jpg";
-import EmeraldAzzurraVsEmeraldSakara4 from "../../assets/EmeraldAzzurraVsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara4.jpg"
+import EmeraldAzzurraVsEmeraldSakara1 from "../../assets/EmeraldAzzurravsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara1.jpg";
+import EmeraldAzzurraVsEmeraldSakara2 from "../../assets/EmeraldAzzurravsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara2.jpg";
+import EmeraldAzzurraVsEmeraldSakara3 from "../../assets/EmeraldAzzurravsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara3.jpg";
+import EmeraldAzzurraVsEmeraldSakara4 from "../../assets/EmeraldAzzurravsEmeraldSakara/EmeraldAzzurraVsEmeraldSakara4.jpg"
 import myImage from "../../assets/image.jpg";
 
 // Lucide React Icons
